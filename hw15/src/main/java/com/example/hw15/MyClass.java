@@ -10,7 +10,7 @@ public class MyClass {
         int m = scanner.nextInt();
 
         {
-            if ((h == 7 && m >= 30) || (h <= 17)) {
+            if ((h == 7 && m >= 30) || (h <= 16)) {
                 System.out.println("目前不在學校");
             } else {
                 System.out.println("目前在學校");
